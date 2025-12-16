@@ -26,6 +26,7 @@ Software Engineering student at University of Stuttgart with a focus on building
 - 🌍 Based in Stuttgart, Germany
 - 💼 Open to internship opportunities
 - 🗣️ Languages: Russian, German, English
+- 🤝 LinkedIn: https://www.linkedin.com/in/oleksandr-izotov
 
 ---
 *"Clean code always looks like it was written by someone who cares."* – Robert C. Martin
